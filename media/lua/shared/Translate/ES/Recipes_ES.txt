@@ -1,0 +1,21 @@
+Recipe_PTBR = {
+  Recipe_Crush_Small_Salt_Rocks = "Triturar Piedras de Sal Pequeña",
+  
+  Recipe_Grind_Mushrooms_To_Yeast_Base = "Triturar Setas a Base de Levadura",
+  Recipe_Make_Yeast = "Hacer Levadura",
+  Recipe_Open_Yeast_Jar = "Abrir Tarro de Levadura",
+  
+  Recipe_Open_Packet_of_Sugar_Beet_Seeds = "Abrir Paquete de Semillas de Remolacha",
+  Recipe_Put_Sugar_Beet_Seeds_in_Packet = "Colocar Semillas de Remolacha en Paquete",
+  Recipe_Slice_Sugar_Beets = "Cortar Remolacha en Rodajas",
+  Recipe_Make_Sugar = "Producir Azúcar",
+
+  Recipe_Crush_Berries = "Aplastar Bayas",
+  Recipe_Ferment_Berries = "Fermentar Bayas",
+  Recipe_Make_Vinegar = "Producir Vinagre",
+
+
+
+
+
+}

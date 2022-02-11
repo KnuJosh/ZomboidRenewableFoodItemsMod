@@ -1,0 +1,21 @@
+﻿Items_PTBR = {
+  DisplayName_Small_Salt_Rock = "Piedra de Sal Pequeña",
+  DisplayName_Wild_Yeast_Base = "Base de Levadura Salvaje",
+  DisplayName_Jar_of_Yeast = "Tarro de Levadura",
+  DisplayName_Jar_of_Ready_Yeast_(OBSOLETED) = "Tarro de Levadura",
+  DisplayName_Fermented_World = "Mundo Fermentado",
+  
+  DisplayName_Sugar_Beet = "Remolacha Azucarera",
+  DisplayName_Sugar_Beet_Seeds = "Semillas de Remolacha",
+  DisplayName_Sugar_Beet_Seeds_Packet = "Paquete de Semillas de Remolacha",
+  DisplayName_Sliced_Sugar_Beets = "Remolacha en Rodajas",
+  DisplayName_Dried_Sugar_Beets = "Remolachas secas",
+  DisplayName_Handmade_Sugar = "Azúcar Artesanal",
+
+  DisplayName_Grated_Berries = "Bayas Ralladas",
+  DisplayName_Jar_Of_Crushed_Berries = "Tarro de Bayas Trituradas",
+  DisplayName_Jar_Wild_Berry_Wine = "Botella de Vino de Bayas Silvestres",
+  DisplayName_Jar_Of_Vinegar_Base = "Tarro de Base de Vinagre",
+
+
+}
